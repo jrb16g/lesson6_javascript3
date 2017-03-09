@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 08, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Bennett)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson we learned how to create a photo gallery using javascript Document Object Model)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jrb16g.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use get element ID to modify CSS and change the style of a page or parts of it.)
+2. (I learned how to use DOM Events to modify webpage content based on an action such as clicking a button.)
+3. (How to create or remove HTML elements using javascript.)
